@@ -10,4 +10,4 @@ git clone https://github.com/HrOrange/3DPong/
 
 Usage
 -------
-Just open the `3DPongV2.exe` file that is in the `game` folder.
+Just open the `3DPongV2.exe` file that is in the `Game` folder.
