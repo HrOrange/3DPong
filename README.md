@@ -1,6 +1,6 @@
 # 3DPong
  
-This is an attempt to make a 3D version of the classic Pong. The game itself is made in Unity and there is not gonna come any further support for the game.
+This is an attempt to make a 3D version of the classic Pong game. The game itself is made in Unity and I don't plan on giving the game further support.
 
 Installation
 -------
